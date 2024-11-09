@@ -1,0 +1,6 @@
+Question[0] = new Question(1, "Capital of Odisha ?", "Bhubaneshwar", "Cuttack", "Kolkata", "Shillong", "Bhubaneshwar");
+Question[1] = new Question(2, "Capital of Haryana ?", "Chandigarh", "Panchkula", "Ambala", "Hisar", "Chandigarh");
+Question[2] = new Question(3, "Capital of Mizoram ?", "Agartala", "Shillong", "Aizawl", "Kohima", "Aizawl");
+Question[3] = new Question(4, "Capital of Meghalaya ?", "Durgapur", "Imphal", "Shallang", "Shillong", "Shillong");
+Question[4] = new Question(5, "Capital of West Bengal ?", "Calicut", "Durgapur", "Kharagpur", "Kolkata", "Kolkata");
+
